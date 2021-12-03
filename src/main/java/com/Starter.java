@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Starter {
 	
 	public static void main(String[] args) {
-		System.out.println();
+		System.out.println("snsnlns");
 		SpringApplication.run(Starter.class, args);
 	}
 
